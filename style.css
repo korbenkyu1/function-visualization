@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(34, 37, 56);
+}
+.container{
+    background-color: darkolivegreen;
+    text-align: left;
+    padding: 10px;
+}
+h1{
+    color: azure;
+    font-family: 'Calibri';
+}
+canvas{
+    width: 400px;
+    max-width: 90vw;
+    height: 400px;
+    max-height: 90vw;
+    background-image: url("coordinate plane.png");
+    background-size: 100%;
+    border-radius: 20px;
+}
+button{
+    height: 40px;
+    border: 1px solid gold;
+    background-color: tomato;
+    color: azure;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+}
